@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg width='40px' height='40px' viewBox='0 0 40 40' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>Avatars / Small / Blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id='path-1' x='0' y='0' width='40' height='40' rx='20'></rect>
+    </defs>
+    <g id='Avatars-/-Small-/-Blue' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'>
+        <g id='Shapes-/-Cap-/-Radius-(200)-/-Shadow-/-Shadow-(Default)'>
+            <mask id='mask-2' fill='white'>
+                <use xlink:href='#path-1'></use>
+            </mask>
+            <g id='Shadow'></g>
+            <g id='Colors-/-Basic-/-Theme-Colors-/-Blue-/-Blue-100' mask='url(#mask-2)' fill='#C8E0FE' fill-rule='evenodd'>
+                <rect id='↳-🎨-Color' x='0' y='0' width='40' height='40'></rect>
+            </g>
+        </g>
+        <text id='↳-Initials' font-family='SFProText-Medium, SF Pro Text' font-size='14' font-weight='400' line-spacing='24' letter-spacing='-0.239999995' fill='#0C4B9B'>
+            <tspan x='11.1482031' y='21'>00</tspan>
+        </text>
+    </g>
+</svg>

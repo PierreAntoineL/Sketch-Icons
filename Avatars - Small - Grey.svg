@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg width='40px' height='40px' viewBox='0 0 40 40' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' style='background: #FFFFFF;'>
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>Avatars / Small / Grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id='path-1' x='0' y='0' width='40' height='40' rx='20'></rect>
+        <path d='M13.7726563,6.471875 C13.8640625,6.39921875 14,6.4671875 14,6.58203125 L14,11.375 C14,11.9960938 13.4960938,12.5 12.875,12.5 L3.125,12.5 C2.50390625,12.5 2,11.9960938 2,11.375 L2,6.584375 C2,6.4671875 2.13359375,6.4015625 2.22734375,6.47421875 C2.75234375,6.88203125 3.4484375,7.4 5.8390625,9.13671875 C6.33359375,9.49765625 7.16796875,10.2570313 8,10.2523438 C8.83671875,10.259375 9.6875,9.48359375 10.1632813,9.13671875 C12.5539063,7.4 13.2476562,6.8796875 13.7726563,6.471875 Z M8,9.5 C8.54375,9.509375 9.3265625,8.815625 9.7203125,8.5296875 C12.8304688,6.27265625 13.0671875,6.07578125 13.784375,5.51328125 C13.9203125,5.4078125 14,5.24375 14,5.0703125 L14,4.625 C14,4.00390625 13.4960938,3.5 12.875,3.5 L3.125,3.5 C2.50390625,3.5 2,4.00390625 2,4.625 L2,5.0703125 C2,5.24375 2.0796875,5.40546875 2.215625,5.51328125 C2.9328125,6.0734375 3.16953125,6.27265625 6.2796875,8.5296875 C6.6734375,8.815625 7.45625,9.509375 8,9.5 Z' id='path-3'></path>
+    </defs>
+    <g id='Avatars-/-Small-/-Grey' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'>
+        <rect fill='#FFFFFF' x='0' y='0' width='40' height='40'></rect>
+        <g id='Shapes-/-Cap-/-Radius-(200)-/-Shadow-/-Shadow-(Default)'>
+            <mask id='mask-2' fill='white'>
+                <use xlink:href='#path-1'></use>
+            </mask>
+            <g id='Shadow'></g>
+            <g id='Colors-/-Basic-/-Theme-Colors-/-Neutral-/-Neutral-100' mask='url(#mask-2)' fill='#F5F5F5' fill-rule='evenodd'>
+                <rect id='↳-🎨-Color' x='0' y='0' width='40' height='40'></rect>
+            </g>
+        </g>
+        <text id='↳-Initials' font-family='SFProText-Medium, SF Pro Text' font-size='14' font-weight='400' line-spacing='24' letter-spacing='-0.239999995' fill='#141414' fill-opacity='0.8'>
+            <tspan x='11.1482031' y='21'>00</tspan>
+        </text>
+        <g id='Icons-/-Solid-/-envelope' transform='translate(12.000000, 12.000000)'>
+            <mask id='mask-4' fill='white'>
+                <use xlink:href='#path-3'></use>
+            </mask>
+            <g fill-rule='nonzero'></g>
+            <g id='Colors-/-Basic-/-_Alpha-/-Neutral-/-Neutral-800A-(72%)' mask='url(#mask-4)' fill='#141414' fill-rule='evenodd' opacity='0.72'>
+                <g id='Colors-/-Basic-/-App-Colors-/-Black'>
+                    <rect id='↳-🎨-Color' x='0' y='0' width='16' height='16'></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
